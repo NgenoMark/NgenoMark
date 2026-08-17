@@ -1,7 +1,7 @@
 # 💫 About Me:
 Computer Science Major.<br>  Fun fact : You can use GitHub to learn coding 
 
-Click the link to view my personal portfolio : ngenomark.dev
+Click the link to view my personal portfolio : https://ngenomark.dev/
 
 
 
