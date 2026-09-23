@@ -106,8 +106,9 @@ Backend development · Mobile apps · Full-stack engineering · Machine learning
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=NgenoMark&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NgenoMark&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=NgenoMark&theme=tokyonight" alt="GitHub stats" />
+<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=NgenoMark&theme=tokyonight" alt="Top languages by repo" />
+<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=NgenoMark&theme=tokyonight" alt="Top languages by commit" />
 
 <img src="https://streak-stats.demolab.com?user=NgenoMark&theme=tokyonight&hide_border=true" alt="GitHub streak" />
 
